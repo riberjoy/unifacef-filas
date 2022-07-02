@@ -8,7 +8,7 @@
 * [Edmar Antonio da Costa Junior]() 
 * [Hyan Kelwin Souza Campos](https://github.com/hyankelwin/reactjs-typescript-unifacef) 
 * [João Marcos Rodrigues Stefani](https://github.com/JoaoStefani/unifacef-react-typescript) 
-* [Joyce Ribeiro](https://github.com/riberjoy/unifacef-react-typescript/tree/master) 
+* [Joyce Ribeiro](https://github.com/riberjoy/mensageria-node-bull) 
 * [Leonardo Carloni Rodrigues Meira](https://github.com/LeoCarloni/unifacef-react-typescript) 
 * [Leonardo de Carvalho Neves](https://github.com/neves-c-leonardo/projeto-react-unifacef/tree/master) 
 * [Lucas Ferreira Galvão](https://github.com/lucasferreiragalvao/projeto-reactjs-typescript-unifacef) 
